@@ -1,0 +1,27 @@
+{
+  "name": "cb2pro",
+  "version": "1.0.1",
+  "description": "es6 promise co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiasm/cb2promise.git"
+  },
+  "author": "jarvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiasm/cb2promise/issues"
+  },
+  "homepage": "https://github.com/Jiasm/cb2promise#readme",
+  "devDependencies": {
+    "node-xlsx": "^0.7.1",
+    "eslint": "^2.10.1",
+    "eslint-config-standard": "^5.3.1",
+    "eslint-plugin-promise": "^1.1.0",
+    "eslint-plugin-standard": "^1.3.2",
+    "eslint-plugin-react": "^5.2.2"
+  }
+}
