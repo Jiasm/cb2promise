@@ -6,7 +6,7 @@
 npm i cb2pro
 ```
 
-```
+```javascript
 var fs = require('fs')
 var cb2promise = require('cb2pro')
 
